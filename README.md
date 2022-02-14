@@ -22,7 +22,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+<img src="https://imgur.com/a/87aPe8f" width=250><br>
+![alt-text](https://github.com/sandy-marrero/codepathunit2/blob/master/codepathdemo2.gif)
 
 <img src="YOUR_GIF_URL_HERE" width=250><br>
 
