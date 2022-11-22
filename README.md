@@ -24,8 +24,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 <img src="https://imgur.com/a/87aPe8f" width=250><br>
 ![alt-text](https://github.com/sandy-marrero/codepathunit2/blob/master/codepathdemo2.gif)
-<img src="YOUR_GIF_URL_HERE" width=250><br>
-
 ### Notes
 
 Did not have any experience using youtubeplayer api but was a great experience. 
@@ -52,8 +50,8 @@ Did not have any experience using youtubeplayer api but was a great experience.
 
 ### App Walkthough GIF
 
-<img src="https://imgur.com/a/SltRQz5" width=250><br>
-![alt-text](https://github.com/sandy-marrero/android_university_lab1/blob/1d9b63d555ddf4ad22cd6aedc9468695ee9f4d2a/newflixster_CodepathSandyM.gif)
+<img src="https://github.com/sandy-marrero/flix-clone/blob/master/flixster.png" width=250><br>
+
 ### Notes
 Was my first experience working with apps that uses the net to parse information and images but was a really good oportunity to learn and experience it. 
 
